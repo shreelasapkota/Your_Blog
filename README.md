@@ -8,7 +8,7 @@ A blog platform built with Next.js 14, TypeScript, and Tailwind CSS.
 
 - 📖 Read Blogs
 - 🔍 Search Feature
-- ✍️ Create and edit blog posts
+- ✍️ Create blog posts
 - 📱 Responsive
 
 ## Quick Start
